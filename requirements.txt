@@ -1,0 +1,2 @@
+infisicalsdk>=1.0.17
+python-dotenv>=1.0
